@@ -1,16 +1,6 @@
-# smart_app
+# mental_health_app
 
-A new Flutter project.
+My attempt at implementing the mobile design for a mental health app by Choirul Syafril for Keitoto on Dribbble
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Design:
+https://dribbble.com/shots/15002657-Mental-Health-App
